@@ -1,4 +1,4 @@
-## Passo a passo clonar e subir arquivo para GitHub 
+## Passo a passo clonar, alterar e subir arquivo para GitHub 
 
 - 1 - Utilizei o comando: **Git clone + URL**, na raiz da pasta com: **Git Besh here** 
 - 2 - Introduzi algumas alterações, em seguida o comando: **Git add .**
