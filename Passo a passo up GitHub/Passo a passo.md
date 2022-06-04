@@ -1,9 +1,4 @@
-# Meu-Primeiro-repositório
-## Esse é meu primeiro repositório no Git-Hub
-
-### Passo a passo clonar e subir arquivo para GitHub
-
-
+## Passo a passo clonar e subir arquivo para GitHub 
 
 - 1 - Utilizei o comando:  **Git clone + URL**, na raiz da pasta com: **Git Besh here** 
 - 2 - Introduzi algumas alterações, em seguida dei o comando: **Git add ***
